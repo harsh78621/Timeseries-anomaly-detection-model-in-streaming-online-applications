@@ -1,0 +1,1 @@
+ModelPerformance: Achieved a Mean Absolute Error (MAE) of 0.1837 using a stacked LSTM and graph convolu tion network for traffic forecasting, outperforming the naive forecast MAE of 0.1945 demonstrating the model’s effectiveness in accurately predicting future traffic speeds.
