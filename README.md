@@ -8,4 +8,4 @@
  
  • Identified 394 anomaly sample based on the reconstruction error threshold.
 
- ![Anamoly Demo](https://github.com/harsh78621/Research-Paper-Analyzer/blob/main/QnA.gif?raw=true)
+ ![Anamoly Demo](https://github.com/harsh78621/Timeseries-anomaly-detection-model-in-streaming-online-applications/blob/main/Anamoly.gif?raw=true)
