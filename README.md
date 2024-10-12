@@ -25,7 +25,8 @@ This project utilizes a Keras Sequential autoencoder for detecting anomalies in 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/anomaly-detection.git
+   git clone https://github.com/harsh78621/Timeseries-anomaly-detection-model-in-streaming-online-applications.git
+
 
 
  ![Anamoly Demo](https://github.com/harsh78621/Timeseries-anomaly-detection-model-in-streaming-online-applications/blob/main/Anamoly.gif?raw=true)
